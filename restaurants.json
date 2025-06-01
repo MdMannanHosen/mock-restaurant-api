@@ -1,0 +1,168 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Spice Garden",
+      "cuisine": "Indian",
+      "rating": 4.5,
+      "deliveryTime": 30,
+      "image": "https://images.unsplash.com/photo-1600628422011-06c4b1b53a4e"
+    },
+    {
+      "id": 2,
+      "name": "Pasta Palace",
+      "cuisine": "Italian",
+      "rating": 4.2,
+      "deliveryTime": 25,
+      "image": "https://images.unsplash.com/photo-1521389508051-d7ffb5dc8e8f"
+    },
+    {
+      "id": 3,
+      "name": "Dragon Express",
+      "cuisine": "Chinese",
+      "rating": 4.0,
+      "deliveryTime": 20,
+      "image": "https://images.unsplash.com/photo-1584270354949-1f3507a3d6aa"
+    },
+    {
+      "id": 4,
+      "name": "Taco Fiesta",
+      "cuisine": "Mexican",
+      "rating": 4.3,
+      "deliveryTime": 28,
+      "image": "https://images.unsplash.com/photo-1601050690597-e0e7ba8b6c2b"
+    },
+    {
+      "id": 5,
+      "name": "Burger Point",
+      "cuisine": "American",
+      "rating": 4.1,
+      "deliveryTime": 22,
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+    },
+    {
+      "id": 6,
+      "name": "Sushi World",
+      "cuisine": "Japanese",
+      "rating": 4.6,
+      "deliveryTime": 35,
+      "image": "https://images.unsplash.com/photo-1553621042-f6e147245754"
+    },
+    {
+      "id": 7,
+      "name": "Thai Treat",
+      "cuisine": "Thai",
+      "rating": 4.4,
+      "deliveryTime": 27,
+      "image": "https://images.unsplash.com/photo-1598515214108-5c52b1df2ffb"
+    },
+    {
+      "id": 8,
+      "name": "Curry House",
+      "cuisine": "Indian",
+      "rating": 4.0,
+      "deliveryTime": 30,
+      "image": "https://images.unsplash.com/photo-1634727485818-0c55a7b30559"
+    },
+    {
+      "id": 9,
+      "name": "Bella Italia",
+      "cuisine": "Italian",
+      "rating": 4.7,
+      "deliveryTime": 26,
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+    },
+    {
+      "id": 10,
+      "name": "Wok & Roll",
+      "cuisine": "Chinese",
+      "rating": 3.9,
+      "deliveryTime": 24,
+      "image": "https://images.unsplash.com/photo-1576179635662-cd2f5f8d8f87"
+    },
+    {
+      "id": 11,
+      "name": "Quesadilla Queen",
+      "cuisine": "Mexican",
+      "rating": 4.5,
+      "deliveryTime": 29,
+      "image": "https://images.unsplash.com/photo-1601050690597-e0e7ba8b6c2b"
+    },
+    {
+      "id": 12,
+      "name": "Grill Master",
+      "cuisine": "American",
+      "rating": 4.2,
+      "deliveryTime": 31,
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
+    },
+    {
+      "id": 13,
+      "name": "Ramen Spot",
+      "cuisine": "Japanese",
+      "rating": 4.3,
+      "deliveryTime": 34,
+      "image": "https://images.unsplash.com/photo-1605478447340-b2b5cf23996d"
+    },
+    {
+      "id": 14,
+      "name": "Bangkok Bites",
+      "cuisine": "Thai",
+      "rating": 4.1,
+      "deliveryTime": 23,
+      "image": "https://images.unsplash.com/photo-1598515213839-17c1a26cde55"
+    },
+    {
+      "id": 15,
+      "name": "Masala Magic",
+      "cuisine": "Indian",
+      "rating": 4.6,
+      "deliveryTime": 32,
+      "image": "https://images.unsplash.com/photo-1631515243343-69c81a016fd3"
+    },
+    {
+      "id": 16,
+      "name": "Napoli Pizza",
+      "cuisine": "Italian",
+      "rating": 4.8,
+      "deliveryTime": 22,
+      "image": "https://images.unsplash.com/photo-1601924579564-8e5f934ec76b"
+    },
+    {
+      "id": 17,
+      "name": "Great Wall",
+      "cuisine": "Chinese",
+      "rating": 3.8,
+      "deliveryTime": 28,
+      "image": "https://images.unsplash.com/photo-1614289942381-3108f222c3bb"
+    },
+    {
+      "id": 18,
+      "name": "Tortilla Town",
+      "cuisine": "Mexican",
+      "rating": 4.0,
+      "deliveryTime": 26,
+      "image": "https://images.unsplash.com/photo-1623659327886-cd61ee6f7fc2"
+    },
+    {
+      "id": 19,
+      "name": "BBQ Barn",
+      "cuisine": "American",
+      "rating": 4.3,
+      "deliveryTime": 33,
+      "image": "https://images.unsplash.com/photo-1604908177522-402eb66c78b3"
+    },
+    {
+      "id": 20,
+      "name": "Tokyo Table",
+      "cuisine": "Japanese",
+      "rating": 4.4,
+      "deliveryTime": 36,
+      "image": "https://images.unsplash.com/photo-1598515212950-b1647b247edb"
+    }
+    
+  ],
+  "total": 30,
+  "skip": 0,
+  "limit": 30
+}
